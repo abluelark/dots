@@ -1,6 +1,6 @@
 <div align="center">
-### Configuration files (dots) for my Arch Linux/i3wm workstation
-### Daily Use since 2014
+  ### Configuration files (dots) for my Arch Linux/i3wm workstation &nbsp;
+  ### Daily Use since 2014&nbsp;
 
   ### ~/. my dotfiles ~/.&nbsp;
 
