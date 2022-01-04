@@ -1,4 +1,4 @@
-<div align="cennter">
+<div align="center">
 ### Configuration files (dots) for my Arch Linux/i3wm workstation
 ### Daily Use since 2014
 
