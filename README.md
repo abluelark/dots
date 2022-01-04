@@ -1,9 +1,8 @@
+<div align="cennter">
 ### Configuration files (dots) for my Arch Linux/i3wm workstation
 ### Daily Use since 2014
 
-<div align="center">
-
-### ~/. my dotfiles ~/.&nbsp;
+  ### ~/. my dotfiles ~/.&nbsp;
 
 #### \> Managed with chezmoi >&nbsp;
 
