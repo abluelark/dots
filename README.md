@@ -1,5 +1,5 @@
-Configuration files for my Arch Linux/i3wm workstation.
-Used, updated, built since 2015.
+### Configuration files (dots) for my Arch Linux/i3wm workstation
+### Daily Use since 2014
 
 <div align="center">
 
