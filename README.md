@@ -1,3 +1,6 @@
+Configuration files for my Arch Linux/i3wm workstation.
+Used, updated, built since 2015.
+
 <div align="center">
 
 ### ~/. my dotfiles ~/.&nbsp;
