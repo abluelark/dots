@@ -1,8 +1,7 @@
 <div align="center">
-   Configuration files (dots) for my Arch Linux/i3wm workstation &nbsp;
-   Daily Use since 2014 &nbsp;
-
-  ### ~/. my dotfiles ~/.&nbsp;
+   
+  ### Configuration files (dots) for my Arch Linux/i3wm workstation &nbsp;
+#### used daily since 2014
 
 #### \> Managed with chezmoi >&nbsp;
 
@@ -10,7 +9,7 @@
 
 ## Overview
 This repository contains all my dotfiles managed by [chezmoi](https://github.com/twpayne/chezmoi).
-Please note that this is my own personal dotfiles.
+Please note that these are my own personal dotfiles.
 Things may (and will) change without further notice and this README can get outdated.
 
 ## Installation
